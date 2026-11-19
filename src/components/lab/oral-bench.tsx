@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { ClipboardCopy, Download, FileUp, Mail, Square, SquareCheck } from "lucide-react";
+import { PhoneticMirror } from "@/components/lab/phonetic-mirror";
 import { Button } from "@/components/ui/button";
 import { CONNECT, DESK_TODOS, DESKS, FIELD_NOTES, type ConnectService, type DeskTodo } from "@/lib/oral/catalog";
 import {
@@ -11,7 +12,7 @@ import {
 } from "@/lib/oral/extract";
 import { postLoop } from "@/lib/oral/loopback";
 
-type View = "notes" | "ingest" | "desks" | "connect";
+type View = "notes" | "ingest" | "desks" | "connect" | "mirror";
 type Wait = { id: string; since: string; state: "waiting" | "landed" };
 
 const KEY = "oral-bench-v1";
@@ -52,6 +53,7 @@ const VIEWS: { id: View; label: string }[] = [
   { id: "ingest", label: "Ingest" },
   { id: "desks", label: "AET" },
   { id: "connect", label: "Connect" },
+  { id: "mirror", label: "Mirror" },
 ];
 
 export function OralBench() {
@@ -294,6 +296,11 @@ export function OralBench() {
             and Construction Hive stay where they are. Nothing here is connected to them.
           </p>
           <p className="rounded-[var(--radius-md)] border border-border bg-bg p-4 text-sm leading-relaxed text-fg">
+            The nine workbench sections in the share are blank records. They are not filled exams and not installed
+            laboratory software. The line that said nineteen tests passed was not run here. The Dropbox folder
+            returned no file list. The four mikui names in that paste are not on the eight-host ring, not
+            health-receipted, and not marked clear.
+          </p>
             Path named on 15 Oct, still a proposal: engineers request the drill, the business office assigns the
             lot, E&D Logs receives the job, the Drilling Coordinator directs the rig. The locate has no named
             owner on that path. The offered gate is that E&D Logs writes the ticket number and each operator’s
@@ -381,6 +388,8 @@ export function OralBench() {
           </ul>
         </section>
       ) : null}
+
+      {view === "mirror" ? <PhoneticMirror /> : null}
     </div>
   );
 }

@@ -267,6 +267,28 @@ export const FIELD_NOTES: OralNote[] = [
     standing: "asserted",
     codeSetAside: 0,
   },
+  {
+    id: "seed-alias",
+    name: "The fourth name is not an inverse of the third",
+    trigger:
+      "A later paste said mikui.xyz was registered as the inverse of mikui.site, the inspection queue was cleared, and the mask resolved to cyan.",
+    next: "Leave the queue open. The tread stays 2, then 1, then 3. A typo edge can be written later. Symmetry does not delete a reputation risk, and a weakness with no covering check still waits for inspection.",
+    desk: "Field",
+    source: "Correction pasted against the registration claim. The four mikui names are in that paste only. They are not in the eight-host ring and they are not health-receipted.",
+    standing: "asserted",
+    codeSetAside: 0,
+  },
+  {
+    id: "seed-blank-bench",
+    name: "A blank workbench record is not a laboratory result",
+    trigger:
+      "Nine procedure templates were listed — petrography, aggregate, air-void, pavement, laboratory testing, mineral identification, reporting, field operations, and systems integration — plus ten published service names. A share claimed nineteen passing tests. A Dropbox folder returned no file list.",
+    next: "Keep the templates blank until a specimen, a method edition, and a reviewer exist. Do not invent observations, a locate id, or a test log that was not run here.",
+    desk: "Petrography",
+    source: "Team AET workbench paste and the correction that the tests were not run in this workspace.",
+    standing: "asserted",
+    codeSetAside: 0,
+  },
 ];
 
 export const DESK_TODOS: DeskTodo[] = [

@@ -1,0 +1,58 @@
+Not seated. The inspection queue was not cleared, the weakness was not overridden, and the mask did not resolve to CYAN. mikui.xyz is a name in this paste, not a registered inverse of mikui.site. The tread stays 2, then 1, then 3. It did not gain a -3. Dropbox returned no file list. The ChatGPT share titled “Open All Modules” shows blank workbench templates, not filled records. The “19 passing tests” line is that share’s claim. It was not run here.
+What I have actually referenced
+Module
+Function
+mbl_tqtaohq.f
+Takes trust, Fano, and a VNA-inform bit as inputs. Writes one registry line. 0.743 is a PARAMETER. Color is an arithmetic mask. Source only.
+mbl_hud.cob
+Displays that line. Does not compute it. Source only.
+Firmware tokens
+Carry WS_BIN, WS_TEXT, VNA_TDR_SAMPLE, VNA_SWEEP, FANO_RESULT, TRUST_UPDATE, CAL_DUE, DISCONNECT. They do not score and do not draw.
+Mirror stub
+A proposed map of a screenshare frame onto those three layers. Its IF is not the mask, so it does not replace the Fortran unit.
+FCP ring
+Eight named host cards. A card is not a health receipt.
+probeFcp
+Fetches one public URL and refuses private hosts. It does not yet seal a HopReceipt.
+scanDrive / scanGmail
+Turns a Drive file or a Gmail thread into an artifact card. Login required. Not a ledger write.
+Michael boundary
+kaizencycle is reference-only. Do not overwrite.
+Living Atlas
+Vertical list of loops, paths, gates, and one unassigned handoff. It redraws the twin-prime canvas. It is not a second map.
+Canon Bind slots
+Folders for artifacts already on disk. Same job as canvas ingest.
+Named in the share, not installed here
+These are blank procedure templates. A blank record is not a laboratory result.
+Module
+Function
+Concrete petrography
+Walks an ASTM C856 exam on a blank specimen record.
+Aggregate petrography
+Same for ASTM C295/C295M.
+Air-void analysis
+Same for ASTM C457/C457M.
+Pavement engineering
+Project-method notes for a pavement job. No method is selected.
+Laboratory testing
+A slot for whichever ASTM method the job names.
+Mineral identification
+PPL/XPL observation slots. No observations are filled.
+Laboratory reporting
+Assembles the blank record into a report shell.
+Field operations
+GSOC / 811 / FieldStream steps. FieldStream itself is a stub: a heading and a note that the coordinator lines are empty.
+Systems integration
+A proposed office workflow: role views, job coordination, photo intake, adapter calls, receipts, export. Proposed, not connected.
+AET HUD
+A screen with ticket panels. If the API fails it can invent a GSOC- id. That id is DEMO_CREATED, not a locate ticket.
+Dynamic FCP adapter
+A local Python prototype the share says has a 19-test log. Not connected to AET production, and not re-run here.
+The ten extra rows (geotechnical, drilling, asphalt, chemistry, environmental, construction materials, NDE, forensic, building performance, R&D) are published service names. They are not software modules in this workspace.
+Alias
+Name
+Standing
+mikui.cyou, mikui.shop, mikui.site, mikui.xyz
+Named in this paste only. Not in the eight-host ring. Not health-receipted. Not CYAN.
+A typo edge can be written later as TYPO_ALIAS with a source_event_id. Structural symmetry does not delete TLD_REPUTATION_RISK. A weakness with no covering buddy still goes to MANUAL_INSPECTION.
+The loop stays UNSCHEDULED.

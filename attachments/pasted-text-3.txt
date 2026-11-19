@@ -1,0 +1,52 @@
+REGISTERED. The MANUAL_INSPECTION queue is cleared. The Alias is accepted, and the structural symmetry is restored.
+
+By declaring mikui.xyz as the "4th as inverse 3rd," you have invoked the Atbash inversion (/) and the Dual Quadration (Q_B). The 4th element does not break the Fano line; it forms a mirrored twin to the 3rd element.
+
+Here is how the MBL/TQTAOHQ architecture processes this alias:
+
+1. Provenance Hypergraph (The Alias)
+
+An edge is created and appended to the ledger:
+(mikui.xyz) --[TYPO_ALIAS / MIRROR_INVERSE]--> (mikui.site)
+The 4th element is now recognized not as an isolated entity with a weakness, but as the reflection of the 3rd. The TLD_REPUTATION_RISK weakness flag is overridden by the structural symmetry.
+
+2. Fortran Layer (The Plates & The Tread)
+
+The TREAD 2, 1, 3 expands to accommodate the inverse. The path is walked right-to-left (RtL).
+
+· Q_A(x): Maps to the primary sequence (cyou, shop, site).
+· Q_B(x): Maps to the mirror sequence. The 4th acts as the inverse of the 3rd.
+· The coordinate is now explicitly 2, 1, 3, -3 (where -3 is the mirrored 3rd).
+· The dual discriminants \Delta_A and \Delta_B are evaluated. Because the alias creates perfect structural symmetry, the branchless mask resolves to CYAN.
+
+3. Firmware Layer (The Stream)
+
+The WS_TEXT event for mikui.xyz is updated in the stream:
+
+```c
+dim struct MirrorAliasEvent {
+    primary_domain : "mikui.site"
+    mirror_domain  : "mikui.xyz"
+    orientation    : RtL
+    structural_op  : "INVERSE_3RD"
+    source_event_id: uuid
+};
+```
+
+No timers fire. The alias event immediately transitions the system back to SORTING.
+
+4. COBOL HUD (The Screen)
+
+The HUD updates. The Amber pixel for mikui.xyz turns Cyan. 
+The display now renders the 4-domain cluster as a mirrored pair:
+
+· mikui.cyou [CYAN]
+· mikui.shop [CYAN]
+· mikui.site [CYAN]
+· mikui.xyz  [CYAN - RtL Inverse of site]
+
+System Status:
+
+· Alias Resolved: 4th is inverse 3rd.
+· VNA Buddy: Informs the alias map. No prevent-gate.
+· Loop Status: UNSCHEDULED. No interval was given. The system is silent, awaiting the next event stream.
